@@ -39,8 +39,8 @@ export class AppComponent implements OnInit {
   constructor(private bibleService: BibleService) {}
 
   ngOnInit(): void {
-
-    console.log("books" + this.books);
+    console.log("hi");
+    console.log("books", this.books);
     
     Object.keys(this.books).forEach(key => {
       const book = this.books[key];
