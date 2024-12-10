@@ -34,7 +34,7 @@
               "src/styles.scss"
             ],
             "scripts": [],
-            "baseHref": "/New-Testameant-Study/"
+            "baseHref": "/New-Testameant-Study/app"
           },
           "configurations": {
             "production": {
